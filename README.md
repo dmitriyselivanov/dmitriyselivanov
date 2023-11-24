@@ -1,17 +1,19 @@
 <h2 align="left">Hi 👋! My name is Dmitry and I'm a blockchain and backend developer</h2>
 
-- 🔭 I’m currently working at [gateway.fm](gateway.fm)
-
-- 👯 I’m looking to collaborate on **blockchain projects**
-
-- 💬 Ask me about **go, blockchain, microservices**
-
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dmitriyselivanov&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitriyselivanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+- 🔭 I’m currently working at [gateway.fm](gateway.fm)
+
+- 👯 I’m looking to collaborate on **blockchain projects**
+
+- 💬 Ask me about **go, blockchain, microservices**
 
 ###
 
