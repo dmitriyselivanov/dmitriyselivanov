@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Dmitry and I'm a blockchain and backend developer</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitriyselivanov" alt="dmitriyselivanov" /></a> </p>
-
 - 🔭 I’m currently working at [gateway.fm](gateway.fm)
 
 - 👯 I’m looking to collaborate on **blockchain projects**
