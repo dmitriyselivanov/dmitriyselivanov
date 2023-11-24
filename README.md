@@ -58,7 +58,3 @@
 <img src="https://raw.githubusercontent.com/dmitriyselivanov/dmitriyselivanov/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">🔭 I’m currently working @gateway.fm<br><br>👯 I’m looking to collaborate on blockchain projects<br><br>💬 Ask me about go, blockchain, microservices</p>
-
-###
