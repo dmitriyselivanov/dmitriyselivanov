@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dmitry and I'm a blockchain and backend developer</h2>
+<h2 align="left">Hi 👋! My name is Dmitry and I'm a blockchain and backend developer, working remotely since 2018</h2>
 
 ###
 
