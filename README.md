@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working at [gateway.fm](https://gateway.fm)
 
-- 👯 I’m looking to collaborate on **blockchain projects**
+- 👯 I’m looking to collaborate on **web3 projects**
 
-- 💬 Ask me about **go, blockchain, microservices**
+- 💬 Ask me about **go, web3, microservices**
 
 ###
 
