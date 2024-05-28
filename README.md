@@ -2,7 +2,7 @@
 
 ###
 
-- 🔭 I’m currently working at [gateway.fm](gateway.fm)
+- 🔭 I’m currently working at [gateway.fm](https://gateway.fm)
 
 - 👯 I’m looking to collaborate on **blockchain projects**
 
